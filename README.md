@@ -69,10 +69,10 @@ Inside the script:
 - Enable debug output if needed
 
 ## 📡 MQTT OUTPUT EXAMPLE
-SwitchBot2MQTT/ce:2a:82:34:56:78/temp  -4.1
-SwitchBot2MQTT/ce:2a:82:34:56:78/hum   57
-SwitchBot2MQTT/ce:2a:82:34:56:78/bat   89
-SwitchBot2MQTT/ce:2a:82:34:56:78/rssi  -91
+SwitchBot2MQTT/ce:23:45:67:89:0e/temp  -4.1  
+SwitchBot2MQTT/ce:23:45:67:89:0e/hum   57  
+SwitchBot2MQTT/ce:23:45:67:89:0e/bat   89  
+SwitchBot2MQTT/ce:23:45:67:89:0e/rssi  -91
 
 ## 🛠 SYSTEMD SERVICE (optional)
 Create:
